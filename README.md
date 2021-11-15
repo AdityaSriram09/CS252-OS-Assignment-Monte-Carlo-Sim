@@ -6,10 +6,10 @@
 2. The Google Colab Notebook link to first solution i.e 7.17 problem, in Python is https://colab.research.google.com/drive/1HUVGgs9B77WbO394hXhkcT-Q5vK-8961?usp=sharing
 
 ## Analysis for different number of random points
-| No. of Random Points| Image| Avgerage of 5 simulations done using solution for 4.24 problem  |Computation Time |
-| ------------- |:-------------:| -----:| -----:|
-| 10,000      | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/10%2C000points_sim.png) | AVG |0.0507 ms|
-| 100,000      | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/100%2C000points_sim.png)      |   AVG |126.4979 ms|
-| 1,000,000 | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/1%2C000%2C000points_sim.png)      |    AVG |1266.4149 ms <br/>i.e 1.266 s|
+| No. of Random Points| Image| Avgerage value of pi of 5 simulations done using solution for 4.24 problem  |
+| ------------- |:-------------:| -----:|
+| 10,000      | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/10%2C000points_sim.png) | 3.1234 |
+| 100,000      | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/100%2C000points_sim.png)      |   3.1399 |
+| 1,000,000 | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/1%2C000%2C000points_sim.png)      |    3.1428 |
 
 
