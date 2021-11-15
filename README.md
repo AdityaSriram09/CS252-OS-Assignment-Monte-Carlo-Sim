@@ -1,6 +1,7 @@
 # CS252-OS-Assignment-Monte-Carlo-Sim
- Assignment for CS 252 course. Using Multithreaded Programming for finding pi using Monte Carlo Simulation technique
-<br/> One of the solutions to the problem statements **4.24** and **7.17** in **10th** edition of Operating System Concepts by ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
+## Assignment for CS 252 course
+### Using Multithreaded Programming for finding pi using Monte Carlo Simulation technique
+#### One of the solutions to the problem statements **4.24** and **7.17** in **10th** edition of Operating System Concepts by ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
 --------------------------------------------------------------------------------------------------------------------------------------------
 * Python version --> 3.7.12
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -14,5 +15,6 @@
 | 10,000      | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/10%2C000points_sim.png) | 3.1234 |
 | 100,000      | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/100%2C000points_sim.png)      |   3.1399 |
 | 1,000,000 | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/main/Images/1%2C000%2C000points_sim.png)      |    3.1428 |
+
 
 
