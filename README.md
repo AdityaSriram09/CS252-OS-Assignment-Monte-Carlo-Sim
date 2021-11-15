@@ -6,8 +6,9 @@
 2. The Google Colab Notebook link to first solution i.e 7.17 problem, in Python is https://colab.research.google.com/drive/1HUVGgs9B77WbO394hXhkcT-Q5vK-8961?usp=sharing
 
 ## Analysis for different number of random points
-| No. of Random Points        | Image           | Avgerage of 5 simulations done using solution for 4.24 problem  |
+| No. of Random Points        | Image           | Avgerage of 5 simulations done using solution for 4.24 problem  |Computation Time |
 | ------------- |:-------------:| -----:|
-| 10,000      | Image | AVG |
-| 100,000      | Image      |   AVG |
-| 1,000,000 | Image      |    AVG |
+| 10,000      | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/master/Images/10,000points_sim.png.png?raw=true) | AVG |0.0507 ms|
+| 100,000      | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/master/Images/100,000points_sim.png.png?raw=true)      |   AVG |126.4979 ms|
+| 1,000,000 | ![alt text](https://github.com/AdityaSriram09/CS252-OS-Assignment-Monte-Carlo-Sim/blob/master/Images/1,000,000points_sim.png.png?raw=true)      |    AVG |1266.4149 ms i.e 1.266 s|
+
